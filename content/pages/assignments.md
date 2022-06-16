@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information the reading, writing, and class participation
+  requirements of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
