@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information the reading, writing, and class participation
+  requirements of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ff1c9953-7ed3-2ac6-e3ef-2f2c4e23e71b
 ---
