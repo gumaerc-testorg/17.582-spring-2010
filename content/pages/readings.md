@@ -47,7 +47,7 @@ Thucydides. "The Dispute over Corcyra," "Pericles Funeral Oration," "Revolt at M
 
 Fearon, James. "[Iraq: Democracy or Civil War?](http://cisac.stanford.edu/publications/iraq_democracy_or_civil_war/)" Testimony to the U.S. House of Representatives, Committee on Government Reform, Subcommittee on National Security, Emerging Threats, and International Relations. September 15, 2006.
 
-Kalyvas, Stathis. "'New' and 'Old' Civil Wars. A Valid Distinction?" *World Politics* 54 (2001): 99-118. ([PDF](https://www.ncl.ac.uk/media/wwwnclacuk/schoolofhistoryclassicsandarchaeology/Kalyvas%20New%20and%20Old%20Civil%20Wars.pdf))
+Kalyvas, Stathis. "['New' and 'Old' Civil Wars. A Valid Distinction?](https://www.researchgate.net/publication/265887395_New_and_Old_Civil_Wars_A_Valid_Distinction)" *World Politics* 54 (2001): 99-118. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -94,7 +94,7 @@ Kuperman, Alan. "[Suicidal Rebellions and the Moral Hazard of Humanitarian Inter
 Gurr, Ted Robert. "[Ethnic Warfare on the Wane](http://www.foreignaffairs.com/articles/56045/ted-robert-gurr/ethnic-warfare-on-the-wane)." *Foreign Affairs* 79, no. 3 (2000): 52-64.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-**II. B. Course of Civil War** 
+**II. B. Course of Civil War**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
